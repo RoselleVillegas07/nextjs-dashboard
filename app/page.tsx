@@ -25,8 +25,8 @@ export default function Page()
               Next.js Learn Course
             </a>
             , brought to you by Vercel.
+            </p>
             <h1 className='text=4x1 text-blue-500'>I'm Roselle Anne M. Villegas!</h1>
-          </p>
           <Link
             href="/login"
             className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base"
